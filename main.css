@@ -3,4 +3,6 @@
     width: 200px;
     border-radius: 5px;
     display: none;
+    max-height: 300px;
+    overflow-y: scroll;
 }
